@@ -1,6 +1,6 @@
-# trylab 快速上手教程
+# eclipse che 快速上手教程制作中...
 
-## 如何进入 trylab
+## 如何进入 eclipse che
 
 
 ## 如何使用
